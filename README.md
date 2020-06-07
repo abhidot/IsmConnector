@@ -1,2 +1,0 @@
-# IsmConnector
-Created with CodeSandbox
